@@ -1,9 +1,9 @@
 ---
-title: "Assignment #2"
+title: "Assignment #3"
 teaching: 0
 exercises: 0
 questions:
-- "What do I need to do for Assignment #2"
+- "What do I need to do for Assignment #3"
 objectives:
 keypoints:
 ---
@@ -27,7 +27,7 @@ Your figures should have colorbars, titles, and units.
 
 
 ### When is it due?
-Oct 6
+Mar 20
 
 ### How do I turn it in?
 Send me the location of your notebook and/or figures via email or MS Teams.
