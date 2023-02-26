@@ -29,4 +29,4 @@ Your figures should have colorbars, titles, and units.
 Mar 20
 
 ### How do I turn it in?
-Upload your report to Blackboard inlcuding the location of your notebook or upload the notebook to Blackboard.
+Upload your report to Blackboard including the location of your notebook or upload the notebook to Blackboard.
