@@ -22,7 +22,6 @@ keypoints:
 
 Your figures should have colorbars, titles, and units.
 
-[Instructions for running Python on NCAR](https://www2.cisl.ucar.edu/resources/python-%E2%80%93-ncar-package-library)
 [Instructions for running JupyterLab on NCAR](https://www2.cisl.ucar.edu/resources/jupyter-and-ipython)
 
 
@@ -30,4 +29,4 @@ Your figures should have colorbars, titles, and units.
 Mar 20
 
 ### How do I turn it in?
-Send me the location of your notebook and/or figures via email or MS Teams.
+Upload your report to Blackboard inlcuding the location of your notebook or upload the notebook to Blackboard.
